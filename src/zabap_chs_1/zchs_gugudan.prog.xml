@@ -3,7 +3,6 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <DEVCLASS>ZABAP_CHS_1</DEVCLASS>
     <SUBC>1</SUBC>
     <FIXPT>X</FIXPT>
     <UCCHECK>X</UCCHECK>
