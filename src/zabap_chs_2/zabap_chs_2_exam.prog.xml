@@ -3,16 +3,17 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>ZCHS_GUGUDAN2</NAME>
+    <NAME>ZABAP_CHS_2_EXAM</NAME>
     <SUBC>1</SUBC>
+    <RLOAD>E</RLOAD>
     <FIXPT>X</FIXPT>
     <UCCHECK>X</UCCHECK>
    </PROGDIR>
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>구구단2</ENTRY>
-     <LENGTH>41</LENGTH>
+     <ENTRY>Program ZABAP_CHS_2_EXAM</ENTRY>
+     <LENGTH>24</LENGTH>
     </item>
    </TPOOL>
   </asx:values>
