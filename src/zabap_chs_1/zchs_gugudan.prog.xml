@@ -3,6 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
+    <NAME>ZCHS_GUGUDAN</NAME>
     <SUBC>1</SUBC>
     <FIXPT>X</FIXPT>
     <UCCHECK>X</UCCHECK>
